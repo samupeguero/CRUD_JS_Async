@@ -1,9 +1,14 @@
 {
   "perfil": [
     {
-      "nombre": "Samuel",
-      "email": "samuel@example.com",
-      "id": 1
+      "nombre": "jose",
+      "email": "jose@mail.com",
+      "id": "0af52db5-ad64-4ec1-a884-827b15cf39c2"
+    },
+    {
+      "nombre": "pepe",
+      "email": "pepe@mail.com",
+      "id": "c63dad2b-8d7d-4805-827a-a93dbcfe6369"
     }
   ]
 }
